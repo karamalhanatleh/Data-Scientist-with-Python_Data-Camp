@@ -1,8 +1,0 @@
-name,birthday,blood_type
-Beth ,2019-10-20 , B-
-Ignatius , 2020-07-08 , A-
-Paul , 2019-08-12 , O+
-Helen , 2019-02-17 , O-
-Jennifer ,209-12-17 , Z+
-Kennedy ,2020-04-27 , A+
-Keith , 2019-04-19 ,AB+
